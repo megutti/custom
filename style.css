@@ -752,6 +752,29 @@ div.page-top a:hover {
 div.oj {
   margin-top: 20px;
 }
+
+.mente-hero {
+  background-image: url(images/main.jpg);
+  background-position: center left;
+  width: 960px;
+  height: 150px;
+}
+.mente-hero .container {
+  max-width: 960px;
+  padding: 50px 0 150px 20px;
+}
+.mente-hero h1 {
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 2;
+  margin-bottom: 20px;
+  color: #ffffff;
+}
+.mente-hero h1 .large {
+  font-size: 30px;
+  font-weight: 900;
+  color: #ffffff;
+}
 @keyframes animate {
   ß 0% {
     opacity: 1;
