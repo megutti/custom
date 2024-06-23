@@ -762,3 +762,43 @@ div.oj {
     filter: blur(25px);
   }
 }
+.cw {
+  width: 960px;
+  margin: 0 auto;
+}
+.cw h2 {
+  font-size: 20px;
+  font-weight: 600;
+  border-bottom: solid 1px #131214;
+  padding: 10px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+h3.mb20 {
+  font-size: 25px;
+  line-height: 2.5;
+  color: #ed6008;
+}
+
+p.summary_text {
+  font-size: 16px;
+  line-height: 2;
+}
+
+#kuruma ul {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  justify-content: space-between;
+}
+#kuruma li {
+  width: 32%;
+}
+
+#kuruma li img {
+  width: 100%;
+}
+.content-title {
+  font-size: 1rem;
+  margin: 10px 0;
+}
